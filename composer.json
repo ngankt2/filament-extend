@@ -1,5 +1,5 @@
 {
-    "name": "ngankt2/filament-packages",
+    "name": "ngankt2/filament-extend",
     "description": "Monorepo chứa các package mở rộng cho Filament",
     "type": "project",
     "license": "MIT",
